@@ -45,7 +45,7 @@ The team has developed a conceptual design that will be used for the system.
 
 The following diagram shows the project architecture and design overview.
 
-![Project Architecture]({{ "/Dynamic/images/project_overview.png" }})
+![Project Architecture](https://github.com/alghazwi/Dynamic-inclinometer/blob/master/Dynamic/images/accelerometer_model.png)
 
 The following diagram shows analysis of all major subsystems.
 
