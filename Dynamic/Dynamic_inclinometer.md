@@ -2,7 +2,7 @@
 layout: project
 title: Dynamic Inclinometer
 sponsor: Christopher Shultz
-sponsor_url:
+sponsor_url:http://www.hyster-yale.com/
 document-date: 18 April 2018
 ---
 
