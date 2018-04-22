@@ -47,28 +47,28 @@ The team has developed a conceptual design that will be used for the system.
 
 The following diagram shows the project architecture and design overview.
 
-![Project Architecture]({{ "\Dynamic\images\project_overview.png" }})
+![Project Architecture]({{ "/Dynamic/images/project_overview.png" }})
 
 The following diagram shows analysis of all major subsystems.
 
-![Major Subsystems]({{ "\Dynamic\images\analysis_subsystems.png" }})
+![Major Subsystems]({{ "/Dynamic/images/analysis_subsystems.png" }})
 
 The following diagram shows the accelerometer model.
 
-![Accelerometer Model]({{ "\Dynamic\images\accelerometer_model.png" }})
+![Accelerometer Model]({{ "/Dynamic/images/accelerometer_model.png" }})
 
 The following diagram shows the gyroscope model.
 
-![Gyroscope Model]({{ "\Dynamic\images\gyroscope_model.png" }})
+![Gyroscope Model]({{ "/Dynamic/images/gyroscope_model.png" }})
 
 The following photo shows the impact sensor.
 
-![Impact Sensor]({{ "\Dynamic\images\impact_sensor.png" }})
+![Impact Sensor]({{ "/Dynamic/images/impact_sensor.png" }})
 
 The following photo shows the ifac usb.
 
-![Impact Sensor]({{ "\Dynamic\images\ifak_usb.png" }})
+![Impact Sensor]({{ "/Dynamic/images/ifak_usb.png" }})
 
 The following photo shows the jlink usb.
 
-![Impact Sensor]({{ "\Dynamic\images\jlink_usb.png" }})
+![Impact Sensor]({{ "/Dynamic/images/jlink_usb.png" }})
