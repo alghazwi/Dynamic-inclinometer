@@ -39,8 +39,6 @@ One of the challenges is that, the sensor cannot be determined whether it has th
 
 Another major challenge of the project will be designing a system that precisely and accurately reports accurate reading on the pitch and roll regardless of the vehicle’s motion. Centrifugal acceleration is likely to distort the readings of the sensor as the vehicle negotiates a corner.
 
-The group members may not be fully conversant with the knowhow to display data using HYG’s current vehicle communication network. PCAN Explorer-5 is a new software for all the team members and some of the built-in MATLAB functions used in the data acquisition component are also unfamiliar. This will necessitate some time to be set aside for the learning process.
-
 ## Outcomes
 
 The team has developed a conceptual design that will be used for the system.
