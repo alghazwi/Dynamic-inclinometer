@@ -70,3 +70,13 @@ The following photo shows the ifac usb.
 The following photo shows the jlink usb.
 
 ![Impact Sensor](https://github.com/alghazwi/Dynamic-inclinometer/blob/master/Dynamic/images/jlink_usb.png)
+
+## References
+
+Goodrich, R. (2013, October 1). Accelerometers: What They Are & How They Work. Retrieved from Live Science: https://www.livescience.com/40102-accelerometers.html
+
+McFadden, C. (2017, September 4). What are Gyroscopes and Why are They Important? Retrieved from Interesting Engineering: https://interestingengineering.com/what-are-gyroscopes-and-why-are-they-important
+
+
+
+
