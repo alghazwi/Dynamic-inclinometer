@@ -21,11 +21,11 @@ The project team members are
 
 ## Customer/Market Requirements
 
-Use the client provided hardware; the Parker Impact Sensor(HYG's preferred sensor) and the CAN interface.
+Use the client provided hardware; the Parker Impact Sensor (HYG's preferred sensor) and the CAN interface.
 
-Reports on the inclination of the forklift. This will include the pitch(X,Y,Z) and the 3-axis rotation. The sensor should be able to update at a frequency of at least 1600Hz and provide a real time trace.
+Reports on the inclination of the forklift. This will include the pitch (X, Y, Z) and the 3-axis rotation. The sensor should be able to update at a frequency of at least 1600Hz and provide a real time trace.
 
-The system should have the ability to communicate with HYG's existing vehicle communication network. Information about the forklift's inclination must be relayed to the vehicle display panel via the Controller Area Network(CAN bus).
+The system should have the ability to communicate with HYG's existing vehicle communication network. Information about the forklift's inclination must be relayed to the vehicle display panel via the Controller Area Network (CAN bus).
 
 The system should work entirely automatically without any client interaction. The system should wake up when the forklift is powered and should continue to work until the forklift is powered off. Data will be stored in a .txt file for later revision if needed. 
 
